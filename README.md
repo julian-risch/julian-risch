@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Julian. 👋
 
+- 👨‍💻 I’m currently working on: [Haystack][haystack] by [deepset][deepset]
+- 📫 How to reach me and connect: [LinkedIn][linkedin]
+- 🔭 Some of my other work: [Google Scholar][scholar]
+
+[deepset]: https://www.deepset.ai/
+[haystack]: https://github.com/deepset-ai/haystack
+[scholar]: https://scholar.google.de/citations?user=sBjOp_YAAAAJ
+[linkedin-badge]: https://img.shields.io/badge/julianrisch-linkedin?color=0a66c2&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianrisch/
+[linkedin]: https://www.linkedin.com/in/julianrisch/
 <!--
 **julian-risch/julian-risch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me and connect: [![https://www.linkedin.com/in/julianrisch/][linkedin-badge]][linkedin-profile]
 -->
